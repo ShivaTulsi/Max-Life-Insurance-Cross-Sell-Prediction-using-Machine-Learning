@@ -194,34 +194,6 @@ Sample Results:
 
 ---
 
-# Folder Structure
-
-```bash
-Max-Life-Cross-Sell-Prediction/
-│
-├── data/
-├── notebooks/
-├── images/
-├── outputs/
-├── README.md
-├── requirements.txt
-└── Capstone_Project_Max_life_Insurance_Cross_Sell_Project.ipynb
-```
-
----
-
-# requirements.txt
-
-```txt
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-```
-
----
-
 # Business Applications
 
 This project helps insurance companies:
