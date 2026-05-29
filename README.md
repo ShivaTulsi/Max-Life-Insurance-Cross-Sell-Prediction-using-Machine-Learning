@@ -220,27 +220,3 @@ This project helps insurance companies:
 This project successfully predicts customer interest in insurance cross-selling using Machine Learning classification algorithms. The solution demonstrates how predictive analytics can support business decision-making and improve customer targeting strategies.
 
 ---
-
-# Resume Project Description
-
-### Max Life Insurance Cross-Sell Prediction
-
-Developed a Machine Learning classification model to predict customer interest in additional insurance products using customer demographics, insurance history, and behavioral data. Performed EDA, feature engineering, preprocessing, and model evaluation using Logistic Regression, Random Forest, and Gradient Boosting algorithms using Python and Scikit-learn.
-
----
-
-# GitHub Topics / Tags
-
-```text
-machine-learning
-data-science
-insurance-analytics
-classification
-cross-sell-prediction
-python
-scikit-learn
-random-forest
-gradient-boosting
-eda
-insurance-project
-```
